@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+huobi:
+#  mySecretKey: f843fa20-2facb138-ez2xc4vb6n-18f94
+#  mySecret: 4c72d8e9-7e3f4a9f-2b7da419-d1af6
+  mySecretKey: e6936989-277f16c2-bg2hyw2dfg-ea4ad
+  mySecret: d9344d5c-b232da50-65c7b791-0f877
+  myUid: 24240794
+
+#spring:
+#  mvc:
+#    static-path-pattern: /static/**
